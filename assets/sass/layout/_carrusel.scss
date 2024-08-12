@@ -1,0 +1,31 @@
+
+.carousel-inner img {
+    width: 900%;
+    height: 1300;
+   
+}
+
+.carousel-inner{
+    width: 1300px;
+    height: 500px;
+
+}
+#carouselExampleCaptions .carousel-inner {
+    height: 300px;
+    width: 80%;
+}
+
+@media (min-width: 768px) {
+    #carouselExampleCaptions .carousel-inner {
+        height: 500px;
+        width: 90%;
+        
+    }
+}
+
+#carouselExampleCaptions .carousel-item img {
+    object-fit: cover;
+    height: 500px;
+    width: 100%;
+    border-radius: 20px;
+}

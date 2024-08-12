@@ -1,0 +1,33 @@
+//boostrstrap
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+//base
+@import "base/reset";
+@import "base/generales";
+@import "base/base";
+@import "base/typography";
+
+
+
+//abstracts
+
+
+//components
+@import "components/card";
+@import "components/button";
+@import "components/tooltip";
+
+//layout
+
+@import "layout/carrusel";
+@import "layout/quienessomos";
+@import "layout/testimonios";
+
+//pages
+
+
+//themes
+
+
+//vendors
